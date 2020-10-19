@@ -1,0 +1,6 @@
+[module]
+  [[module.imports]]
+    path = "github.com/yegor256/tacit"
+  [[module.imports.mounts]]
+    source = "scss"
+    target = "assets/scss/vendor/tacit"
